@@ -1,2 +1,6 @@
-# filesystem practice
+# FileSystem Practice
+
+- FAT
+- NTFS
+- EXT
 
